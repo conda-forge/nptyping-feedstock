@@ -5,9 +5,13 @@ Home: https://github.com/ramonhagenaars/nptyping
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/nptyping-feedstock/blob/master/LICENSE.txt)
 
 Summary: Type hints for Numpy
+
+Development: https://github.com/ramonhagenaars/nptyping
+
+Documentation: https://github.com/ramonhagenaars/nptyping
 
 nptyping.NDArray lets you define the shape and type of your numpy.ndarray.
 
