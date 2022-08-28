@@ -1,5 +1,5 @@
 {% set name = "nptyping" %}
-{% set version = "2.2.0" %}
+{% set version = "2.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/ramonhagenaars/{{ name }}/archive/v{{ version }}.tar.gz
-  sha256: e09990c7cbbefc3916b086ca729e3dc4fbf2881dfbad92c7c3f8cc46672c9400
+  sha256: 07ead55cde4a1ca33230953880dfd2f2eae4caeea479c2c7da39684c7f2166fa
 
 build:
   noarch: python
